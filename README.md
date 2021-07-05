@@ -1,4 +1,4 @@
-A standard means for notification of meteor events by a meteor network, for the benefit of other networks, is described here.  
+A standard means for notification of fireball events by a meteor network, for the benefit of other meteor networks, is described here.  
 The data which is exchnaged consists of:
 
 •	The Event Log, which is a list of detections made by the cameras in the network over the latest 72 hours and is continually updated; and  
